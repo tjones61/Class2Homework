@@ -18,7 +18,8 @@ public class Class2Homework {
         Person johnObject = new Person();
         Person maryObject = new Person();
         
-        
+        System.out.println("johnObject: " + johnObject.getFirstName() + " " + johnObject.getLastName() + " " + johnObject.getAge());
+        System.out.println("maryObject: " + maryObject.getFirstName() + " " + maryObject.getLastName() + " " + maryObject.getAge());
     }
     
 }
