@@ -15,7 +15,10 @@ public class Class2Homework {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Person johnObject = new Person();
+        Person maryObject = new Person();
+        
+        
     }
     
 }
